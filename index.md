@@ -1,13 +1,14 @@
 
 # Alan Alvarez's protfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2029
+I am a computer science major at CSUF and I plan on graduating in 2029. If you would like to visit my github profile, the link is:
+https://github.com/alaanalvareez12
 
 ## Favorite CPSC 120L labs
 
 * Lab 2, part 1
 
-    This lab was the fundamentals and it really set the understanding of how to code, using std::cin and std::cout helped shape the future code. There was fairly no challenge and that is what made it so fun, I thought it was going to be the hardest thing on the planet and ended up not being hard at all! Making a sentence out of any verb and noun made this interactive experience so engaging.
+    This lab was the fundamentals and it really set the understanding of how to code, using std::cin and std::cout helped shape the future code. The reason why this lab is my favorite was because there was fairly no challenge and that is what made it so fun. I thought it was going to be the hardest thing on the planet and ended up not being hard at all! Making a sentence out of any verb and noun made this interactive experience so engaging.
 
 * Lab 3, part 1
 
