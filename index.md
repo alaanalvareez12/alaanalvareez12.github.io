@@ -1,8 +1,9 @@
 
 # Alan Alvarez's protfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2029. If you would like to visit my github profile, the link is:
-https://github.com/alaanalvareez12
+I am a computer science major at CSUF and I plan on graduating in 2029.
+    If you would like to visit my github profile, the link is:
+    https://github.com/alaanalvareez12
 
 ## Favorite CPSC 120L labs
 
